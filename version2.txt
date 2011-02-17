@@ -1,0 +1,5 @@
+Can draw multiple polygons now and it will output the resulting picture to polygon.obj.
+
+Can change colors sequentially through 7 possible via TAB key.
+
+Can clear the screen via DEL.
